@@ -1,0 +1,15 @@
+﻿14/02/2022
+Breakout Game:
+In this game we used several borrowed assets. The brick sprites were originally Mario based sprites, but have been edited to fit our theme. The sound effects were discovered online and come with royalty free licenses. The rest were created.
+
+
+The Prefab function was used to set the bricks in the scene. We did have a script that automatically generated them, but this stopped working after a large merge. The script that performed this was the ‘Instantiation example’. 
+
+
+Our extra features are included at the end of the game menu. This menu shows when you either lose or win, prompting the player to play again if they wish too. The second feature is the extra life features which makes it possible for the player to win back lives by catching falling hearts from special blocks.
+
+
+Credits:
+Lien Har: Ball Script, Game menu, Extra Life function Most of the artwork.
+Aquib Akhtar: Paddle script, most other scripts, debugging and some soundwork
+Mohammad Alqudah: Sound and Debugging
